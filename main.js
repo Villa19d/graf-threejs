@@ -67,7 +67,7 @@
 
 
 //CÓDIGO 2
-import * as THREE from 'https://unpkg.com/three@0.154.0/build/three.module.js';
+import * as THREE from 'https://cdn.jsdelivr.net/npm/three@0.154.0/build/three.module.js';
 
 // Añade esto para manejar el resize
 window.addEventListener('resize', () => {
